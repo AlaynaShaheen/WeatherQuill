@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeatherQuill/static/css/main.e92e3d1f.css",
+    "main.js": "/WeatherQuill/static/js/main.d7c523a2.js",
+    "static/media/drizzle.png": "/WeatherQuill/static/media/drizzle.f66096bafb517f026449.png",
+    "static/media/thunder.png": "/WeatherQuill/static/media/thunder.dd668cbd56031b9af83e.png",
+    "index.html": "/WeatherQuill/index.html",
+    "main.e92e3d1f.css.map": "/WeatherQuill/static/css/main.e92e3d1f.css.map",
+    "main.d7c523a2.js.map": "/WeatherQuill/static/js/main.d7c523a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e92e3d1f.css",
+    "static/js/main.d7c523a2.js"
+  ]
+}
